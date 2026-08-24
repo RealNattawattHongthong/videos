@@ -6,4 +6,6 @@ youtube: wzzhp4SXEyQ
 managed: true
 published: false
 language: th
+subtitles:
+  - th
 ---
