@@ -8238,7 +8238,7 @@ video:GkVQ_GW6gFI:
   spec:
     id: GkVQ_GW6gFI
     snippet:
-      title: Unleash the true power of CSS Variables by ศิริวัชร์ คุณาพร
+      title: Unleash the true power of CSS Variables by Siriwat Kunaporn
       description: >-
         Event: CSS Meetup 16.08.2023
 
@@ -26185,3 +26185,169 @@ video:LdXKbhs96bo:caption:th:
     isDraft: false
   state:
     id: AUieDaZj7VyyDZpDJatJhuMLR8j-Ewt2qk_8aOLmNknf6reP3AwL
+thumbnail:WK_q8QFasGU:
+  spec:
+    videoId: WK_q8QFasGU
+    filePath: data/videos/claudecodesharing3/mutiple-agents-with-orca.jpg
+    hash: 3c4b1c5ca1d418a8e84c4f55c59a380c7b951ea18b320f8cb7e0430a8543f9c6
+  state: {}
+thumbnail:im652kS0P8U:
+  spec:
+    videoId: im652kS0P8U
+    filePath: data/videos/claudecodesharing3/work-anywhere-with-claude-cloud.jpg
+    hash: 02d5bc64ab53758fb22165d1857fbb3443612ec21015e6fdc5e0ee854c6cea3a
+  state: {}
+thumbnail:wzzhp4SXEyQ:
+  spec:
+    videoId: wzzhp4SXEyQ
+    filePath: >-
+      data/videos/claudecodesharing3/leveraging-ios-ecosystem-for-agentic-coding.jpg
+    hash: 92efd7998e91ec78443098833ebf5473ff3dcacf9ba83985cbcee7a9c10f3ccd
+  state: {}
+video:WK_q8QFasGU:
+  spec:
+    id: WK_q8QFasGU
+    snippet:
+      title: Managing Multiple Coding Agents with Orca ADE by Peerapat Junkhaow
+      description: >-
+        Event: Claude Code Sharing #3
+
+        https://www.eventpop.me/e/164118
+
+
+        Organized by: Prompt ไปวันๆ
+
+        https://www.facebook.com/devMasterSomeday/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claudecodesharing3/mutiple-agents-with-orca
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:im652kS0P8U:
+  spec:
+    id: im652kS0P8U
+    snippet:
+      title: Work anywhere with Claude Code in the cloud by Manassarn Manoonchai
+      description: >-
+        Event: Claude Code Sharing #3
+
+        https://www.eventpop.me/e/164118
+
+
+        Organized by: Prompt ไปวันๆ
+
+        https://www.facebook.com/devMasterSomeday/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claudecodesharing3/work-anywhere-with-claude-cloud
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
+video:wzzhp4SXEyQ:
+  spec:
+    id: wzzhp4SXEyQ
+    snippet:
+      title: Leveraging IOS Ecosystem For Agentic Coding by Siriwat Kunaporn
+      description: >-
+        Event: Claude Code Sharing #3
+
+        https://www.eventpop.me/e/164118
+
+
+        Organized by: Prompt ไปวันๆ
+
+        https://www.facebook.com/devMasterSomeday/
+
+        --------------------------------------------
+
+        Recorded and published by Creatorsgarten.
+
+
+        Website:
+
+        https://creatorsgarten.org
+
+
+        Facebook:
+
+        https://facebook.com/creatorsgarten
+
+
+        Please consider supporting us by subscribing to the channel, and follow
+        upcoming events via our Facebook pages.
+
+
+        For reuse of this video under a more permissive license please get in
+        touch with us. The speakers retain the copyright for their performances.
+
+        mail@creatorsgarten.org
+
+
+        Want to learn more about this talk or spotted an error in the metadata?
+        Visit our site where you can help improve video information and details.
+
+        https://grtn.org/v/claudecodesharing3/leveraging-ios-ecosystem-for-agentic-coding
+    status:
+      embeddable: true
+      selfDeclaredMadeForKids: false
+      privacyStatus: unlisted
+  state: {}
