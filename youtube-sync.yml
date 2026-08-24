@@ -26342,12 +26342,25 @@ video:wzzhp4SXEyQ:
         mail@creatorsgarten.org
 
 
-        Want to learn more about this talk or spotted an error in the metadata?
-        Visit our site where you can help improve video information and details.
+        Want to read the full transcript or spotted an error? Visit our site
+        where you can report inaccuracies in subtitles or help improve video
+        metadata.
 
         https://grtn.org/v/claudecodesharing3/leveraging-ios-ecosystem-for-agentic-coding
+      defaultAudioLanguage: th
     status:
       embeddable: true
       selfDeclaredMadeForKids: false
       privacyStatus: unlisted
   state: {}
+video:wzzhp4SXEyQ:caption:th:
+  spec:
+    videoId: wzzhp4SXEyQ
+    filePath: >-
+      data/videos/claudecodesharing3/leveraging-ios-ecosystem-for-agentic-coding_th.vtt
+    language: th
+    name: Thai
+    hash: e168c4132a3754b5d8f27f45e50f0ed659cab9b53eafa3b9bd4c85917367c637
+    isDraft: false
+  state:
+    id: AUieDaYTgvCQtxweyesIP9vLEkKRGbOgmzAWMZxUTUcfqY7skc0W
